@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
-    <link rel = "shortcut icon" type = "image/png" href = "https://forum.ngocrongonline.com/app/view/forum/15825212698171.jpg" / >
+    
     <center>
     <img src="https://hcmue.edu.vn/images/106116969_306361297423538_2421300353161578289_n.png"></div>
     </center>
