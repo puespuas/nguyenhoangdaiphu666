@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
     
     <center>
-    <img src="https://hcmue.edu.vn/images/106116969_306361297423538_2421300353161578289_n.png"></div>
+    <img src="https://hcmue.edu.vn/images/106116969_306361297423538_2421300353161578289_n.png">
     </center>
 </head>    
 <body>
