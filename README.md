@@ -27,7 +27,7 @@
                     <span>M</span> 4901103063@student.hcmue.edu.vn
                 </li>
                 <li>
-                    <span>F</span> <a href="https://www.facebook.com/puespuas/" target="_blank">FACEBOOK</a>
+                    <span>F</span> <a href="https://www.facebook.com/phukhongngu666/" target="_blank">FACEBOOK</a>
                 </li>
             </ul>
        </div>
